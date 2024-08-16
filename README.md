@@ -219,15 +219,9 @@ Your research has been instrumental in shaping this project and advancing the fi
 - Make sure to install all necessary dependencies before running the scripts.
 - The model's accuracy can be improved by using a larger dataset and fine-tuning the parameters.
 
-## Contact Us
-
-For project requests, collaborations, or inquiries, please contact us at:
-
-📧 Email: [myhub.lk@gmail.com](mailto:myhub.lk@gmail.com)
-
-We look forward to hearing from you!
-
-## License
-
-This project is licensed under the MIT License.
+## 📝 License
+    This project is licensed under the MIT License. See the LICENSE file for more details.
+    
+## 📧 Contact
+For any inquiries or feedback, reach out to me at [Lahiru Senavirathna](https://bit.ly/Lahiru_Senavirathna).
 
